@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bharath
 
-<!--
-**bharath-ghu/bharath-ghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student in Robotics and Artificial Intelligence at Amrita Vishwa Vidyapeetham, Amritapuri (graduating 2027). I work on ROS 2, robotics simulation and computer vision.
 
-Here are some ideas to get you started:
+## Projects
+- **[Look Again](https://github.com/bharath-ghu/look-again)**: adaptive object-monitoring pipeline. Cheap motion detection triggers a YOLOv7 detector, and uncertain detections are re-checked with a crop-and-zoom pass. Profiled on a Qualcomm AI Hub-hosted Snapdragon X Elite.
+- **[Wall-Climbing Robot Simulation](https://github.com/bharath-ghu/wcr-wall-climbing-simulation)**: keyboard-controlled PyBullet simulation of a VertiGo-inspired dual-fan robot (academic team project).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Robotics Engineering Intern, Evolve Robotics (Jun to Jul 2026): ROS 2 teleoperation interface for a 4-DOF manipulator.
+
+## Tools
+Python · PyTorch · OpenCV · ROS 2 · Gazebo · PyBullet · Arduino
